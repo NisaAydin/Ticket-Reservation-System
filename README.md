@@ -11,7 +11,7 @@
 ## If you want to test on your PC : 
 
 bash
-  git clone https://github.com/kaantpcc/Ticket-Reservation-System
+  git clone https://github.com/NisaAydin/Ticket-Reservation-System.git
 
 
 ## How It Works :
@@ -42,7 +42,7 @@ bash
 
 - The green seats indicate available spots. You can select any of the unoccupied seats of your choice.
 
-  <img width="760" alt="koltuk seçim paneli" src="https://github.com/NisaAydin/Ticket-Reservation-System/assets/144823992/0ff834f2-003e-422c-88d6-e4ac16f7a14b">
+<img width="760" alt="koltuk seçim paneli" src="https://github.com/NisaAydin/Ticket-Reservation-System/assets/144823992/0ff834f2-003e-422c-88d6-e4ac16f7a14b">
 
 - In my tickets page you can see your tickets.
 
