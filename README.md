@@ -18,7 +18,8 @@ bash
 
 - In main page's first section you must enter admin's username and password. Admin's username and password are writed automaticly.
 
-![mainPage](https://github.com/kaantpcc/Ticket-Reservation-System/assets/118486891/b5d9130b-76cc-49cc-8458-ed1629afa4f5)
+<img width="400" alt="mainPage" src="https://github.com/NisaAydin/Ticket-Reservation-System/assets/144823992/89f5b6b0-7cbd-46c8-a17a-2f6f79d85bc2">
+
 
 - In admin page you can add firms and delete firms for customers.
 
